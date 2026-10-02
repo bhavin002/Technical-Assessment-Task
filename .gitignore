@@ -1,0 +1,11 @@
+node_modules/
+.env
+
+# Generated test data
+orders.csv
+
+# Never commit Google credentials
+*.json.key
+*-key.json
+service-account*.json
+application_default_credentials.json
